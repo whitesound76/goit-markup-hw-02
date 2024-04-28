@@ -22,16 +22,66 @@
   font-style: normal;
 }
 
+.navigation {
+  font-family: "Roboto";
+  font-weight: 500;
+  font-size: 16px;
+}
+
+.contacts {
+  font-family: "Roboto";
+  font-weight: 400;
+  font-size: 16px;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  size: 16px;
+  font-weight: 400;
+}
+
+p {
+  font-family: "Roboto", sans-serif;
+  font-size: 12px;
+}
+
 h1 {
   font-family: "Roboto", sans-serif;
   font-weight: 700;
-  font-size: 120;
+  font-size: 56x;
   font-style: normal;
+  color: #ffffff;
 }
 
 h2 {
   font-family: "Roboto", sans-serif;
   font-weight: 700;
-  font-size: 40;
+  font-size: 36px;
   font-style: normal;
+}
+
+h3 {
+  font-family: "Roboto";
+  font-size: 20px;
+}
+
+.title {
+  background-color: #2e2f42;
+}
+
+.adventage {
+  background-color: #ffffff;
+}
+
+.team {
+  background-color: #f4f4fd;
+}
+
+.portfolio {
+  background-color: #ffffff;
+}
+
+.footer {
+  color: #ffffff;
+  background-color: #2e2f42;
 }
