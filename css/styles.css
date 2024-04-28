@@ -38,6 +38,8 @@ body {
   font-family: "Roboto", sans-serif;
   size: 16px;
   font-weight: 400;
+  color: #434455;
+  background-color: #ffffff;
 }
 
 p {
@@ -79,6 +81,10 @@ h3 {
 
 .portfolio {
   background-color: #ffffff;
+  color: #434455;
+  letter-spacing: 0.02em;
+  line-height: 1.5;
+  font-size: 16px;
 }
 
 .footer {
