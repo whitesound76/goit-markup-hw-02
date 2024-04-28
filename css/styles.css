@@ -52,6 +52,14 @@
   color: #434455;
 }
 
+.contacts:hover {
+  color: #404bbf;
+}
+
+.contacts:focus {
+  color: #404bbf;
+}
+
 body {
   font-family: "Roboto", sans-serif;
   size: 16px;
